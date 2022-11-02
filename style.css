@@ -36,6 +36,7 @@ header #cruz {
     height: 120px;
     justify-content: center;
     align-items: center;
+
 }
 
 header nav {
@@ -90,8 +91,7 @@ header li a {
     background-color: rgb(71, 71, 71);
     display: flex;
     align-items: flex-start;
-    justify-content: space-between;
-    border-left: 3px white solid;
+    
     
 }
 .container .era-de-ouro h2 {
@@ -107,7 +107,7 @@ header li a {
     height: 300px;
     margin: 50px 10px 20px 10px;
     border-radius: 10px;
-    border: 2px white solid;
+    
 }
 .container-titulos{
     border-top: 2px white solid;
