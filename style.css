@@ -91,7 +91,8 @@ header li a {
     background-color: rgb(71, 71, 71);
     display: flex;
     align-items: flex-start;
-    
+    margin-bottom: 25px;
+    margin-right: 25px;
     
 }
 .container .era-de-ouro h2 {
